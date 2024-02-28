@@ -1,5 +1,5 @@
 
-Sumamry:
+# Sumamry:
 
 This project delves into analyzing the power consumption patterns of Tétouan city in Morocco, utilizing data from a public utility operator. With the aim of understanding energy usage and its influencing factors, various visualization techniques and the XGBoost algorithm for regression modeling were employed. The dataset comprises nine attributes, including time-series data collected over the span of a year, with no missing values. Key factors affecting power consumption, such as temperature, humidity, and wind speed, were explored alongside the power consumption across different zones within the city.
 
@@ -7,7 +7,7 @@ The methodology section outlines the use of Python programming language, leverag
 
 Visual representations including correlation heatmaps, boxplots of power consumption by zone and time, and feature importance analysis provided insights into the dynamics of energy usage in Tétouan. Temperature emerged as a significant driver of power consumption, particularly in the evenings. The findings suggest a need for efficient energy management strategies amidst increasing urbanization and demand for electricity. Overall, the study underscores the importance of monitoring and analyzing power consumption patterns for informed decision-making and sustainable energy usage in urban environments.
 
-Results: 
+# Results: 
 
 The analysis revealed several key insights into the power consumption patterns of Tétouan city. Firstly, correlation analysis indicated varying degrees of correlation between different variables. Notably, Zone 1 and Zone 2 power consumption exhibited a strong positive correlation, while other variables like diffuse flows showed weaker correlations with power consumption.
 
